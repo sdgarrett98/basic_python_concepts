@@ -2,7 +2,7 @@
 import csv
 
 # read csv file
-election_data = 'PyPoll/Resources/election_data.csv'
+election_data = 'Resources/election_data.csv'
 
 # define variables
 total_votes = 0

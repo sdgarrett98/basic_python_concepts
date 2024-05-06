@@ -4,7 +4,7 @@ import csv
 # goal: create a python script analyze financial records stored in budget_data.csv
 
 # read csv file
-budget_data = 'PyBank/Resources/budget_data.csv'
+budget_data = 'Resources/budget_data.csv'
 
 # create variables
 budget = {}
